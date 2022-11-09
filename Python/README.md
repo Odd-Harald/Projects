@@ -7,4 +7,6 @@ File explorer meant to be used within CMD on Windows. Can also be called as a mo
 **2. txt_to_animation**  
 Program that plays animations loaded in from txt files in a directory. Meant to be used in CMD on Windows.  
 **3. Noughts and Crosses**  
-Noughts and Crosses, meant to be used in CMD on Windows.
+Noughts and Crosses, meant to be used in CMD on Windows.  
+**4. Odd Harald Sandtveit Wikipedia Categories to CSV tool.**  
+Scrapes a category and its subcategories at a specified level on wikipedia, and generates a csv file.
